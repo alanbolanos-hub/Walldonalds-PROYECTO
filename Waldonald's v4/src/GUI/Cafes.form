@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabelEscalable1" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable7" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="90" pref="90" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable19" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable25" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="120" pref="120" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable13" min="-2" pref="220" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabelEscalable2" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable14" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="90" pref="90" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable20" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable26" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="120" pref="120" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable8" min="-2" pref="220" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabelEscalable28" min="-2" pref="220" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jLabelEscalable30" min="-2" pref="220" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabelEscalable6" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabelEscalable3" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable15" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="90" pref="90" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable21" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable27" min="-2" pref="220" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabelEscalable4" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable16" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="90" pref="90" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable22" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable10" min="-2" pref="220" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabelEscalable5" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable17" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="90" pref="90" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable23" min="-2" pref="220" max="-2" attributes="0"/>
+                              <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                              <Component id="jLabelEscalable11" min="-2" pref="220" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="120" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable31" min="-2" pref="220" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable29" min="-2" pref="220" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable9" min="-2" pref="220" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="57" max="32767" attributes="0"/>
+          </Group>
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable1" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable7" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable19" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable25" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable13" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable2" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable14" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable20" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable26" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable8" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable9" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabelEscalable3" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabelEscalable15" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabelEscalable21" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabelEscalable27" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable4" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable16" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable22" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable10" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable29" min="-2" pref="120" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelEscalable5" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable17" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable23" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="jLabelEscalable11" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jLabelEscalable31" min="-2" pref="120" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabelEscalable28" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                  <Component id="jLabelEscalable30" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabelEscalable6" min="-2" pref="120" max="-2" attributes="0"/>
+              <EmptySpace pref="47" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" pref="1013" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jButton2" min="-2" pref="105" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="103" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLabel5" alignment="0" min="-2" pref="59" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="jButton1" alignment="3" min="-2" pref="68" max="-2" attributes="0"/>
+                          <Component id="jButton2" alignment="3" min="-2" pref="68" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="12" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Semibold" size="36" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="92" red="d1" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/Imagenes/Titulo.jpg"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Bienvenido alos Cafes"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="cc" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Cambria Math" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Regresar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Carrito"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable27">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe Oreo.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable7">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Vainilla Light.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable8">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Cappuccino.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable9">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Cafe Guatemalteco.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable10">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe OG.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable11">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe Chocolate.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable29">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe Caramelo.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable13">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Chocolate Caliente.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable14">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Te Verde.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable15">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai OG.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable16">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Frappe Vainilla.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable17">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Frappe Vainilla Light.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable30">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Frappe Te Verde.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable19">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Frappe OG.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable20">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Latte.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable21">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Iced Coffee Vainilla Light.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable22">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Iced Coffee OG.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable6">
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Guatemalteco Menta.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable23">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Iced Coffee Caramelo.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Guatemalteco Melocoton.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable31">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Iced Coffee Chocolate.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Guatemalteco Manzanilla.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable25">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe Vainilla.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Guatemalteco Bora Bora.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable26">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Frappe Vainilla Ligth.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable5">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te de Matcha.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="main.JLabelEscalable" name="jLabelEscalable28">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Imagenes/Te Chai Vainilla.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
